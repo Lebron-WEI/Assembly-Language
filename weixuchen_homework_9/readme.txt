@@ -1,0 +1,2 @@
+delete系列文件是写了输入（ab1g2hA0H56po9wK78nB）的可直接编译文件，command图片也是根据delete的结果输出的。
+iret.S是实模式中断处理程序。
